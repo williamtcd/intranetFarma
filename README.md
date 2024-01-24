@@ -2,7 +2,7 @@
 
 Pequeno projeto para intranet da farmácia
 
-novarede.projetos.app
+http://novarede.projetos.app
 
 login: teste@teste.com.br
 
